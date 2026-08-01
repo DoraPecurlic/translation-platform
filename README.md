@@ -1,4 +1,4 @@
-# Translation-Platform
+# Translate-o-Rama
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.1.6-092E20?logo=django&logoColor=white)
@@ -88,7 +88,3 @@ Translate-App/
    ```
 
 5. Open `http://127.0.0.1:8000/` in a browser.
-
-## Project Status
-
-This repository is an educational prototype created to explore the design of a multi-user marketplace with Django. It demonstrates the main application workflow but is not configured for production deployment.
