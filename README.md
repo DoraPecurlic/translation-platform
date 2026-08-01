@@ -1,4 +1,4 @@
-# Translate Platform
+# Translation Platform
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.1.6-092E20?logo=django&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)
